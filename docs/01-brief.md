@@ -1,23 +1,24 @@
-# Brief — Piedra Viva
+# Brief — Ruliette
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-Piedra Viva es un emprendimiento "ficticio" perteneciente al rubro de la "construcción y terminaciones", dedicado a la venta y distribución de baldosas (microvibradas, rústicas y de exterior) y guardapolvos de la marca Budnik, además de ofrecer el servicio integral de instalación y pulido. Gestiona sus cotizaciones y atención de proyectos 100% online a través de WhatsApp y correo electrónico.
+Soy una fotógrafa chilena establecida en Valparaíso. Mis obras se caracterizan por mi sensibilidad y la profunda conexión que tengo con  la naturaleza. Mi estilo fotográfico encuentra belleza en lo cotidiano y transforma lo organico en un trabajo visualmente atractivo.
 
 ## Propuesta de valor
 
-Ayudamos a dueños de casa, arquitectos y constructores que buscan revestimientos duraderos a concretar sus proyectos sin complicaciones gracias a la venta directa de productos Budnik junto a un servicio llave en mano de instalación profesional y pulido efecto espejo para baldosas de interior.
+Transformo lo cotidiano del mundo natural en composiciones visuales atractivas y emotivas, ayudando a personas y espacios a reconectar con la belleza pura de lo orgánico.
 
 ## Objetivo del sitio
 
-- **Principal:** Recibir solicitudes de cotización y proyectos para la venta de productos junto con el servicio de instalación/pulido a través de WhatsApp o formulario de contacto.
-- **Secundario:** Posicionar la marca generando confianza al mostrar un catálogo de productos con un portafolio visual de trabajos e instalaciones ya realizadas.
+- **Principal:** Vender online a clientes de todo Chile obras y reproducciones fotográficas (cuadros enmarcados, posters, láminas fine art o fotolibros) centradas en la naturaleza y lo cotidiano.
+- **Secundario:** Captar correos de personas interesadas mediante la entrega de un pack de fotos de pantalla en alta resolución o una guía de decoración botánica para el hogar, enviándoles luego lanzamientos de nuevas colecciones y descuentos exclusivos.
 
 ## Referentes
 
-| Marca | Qué hace bien |
+| Marca / Fotógrafa | Qué hace bien |
 |---|---|
-| Budnik | Muestra fichas técnicas muy detalladas, formatos de productos y la resistencia específica según el tipo de uso (tráfico alto, interior o exterior). |
-| Baldosas Córdoba | Presenta de forma clara sus proyectos terminados e inspira confianza al mostrar el acabado final del trabajo de instalación y pulido tradicional. |
+| Tienda de cuadros / Galería de Prints (Ej. Desenio / YellowKorner) | Muestra simulaciones (mockups) de las fotografías colgadas en distintos ambientes (living, dormitorios, oficinas) para que el cliente imagine el cuadro en su espacio, además de permitir elegir tipo de marco y tamaño con claridad. |
+| Fotógrafo de Naturaleza de Autor (Ej. tiendas locales o artistas en Behance) | Acompaña cada fotografía con una breve historia (dónde se capturó, qué detalle orgánico revela o la técnica utilizada), aportando valor artístico y emocional a la compra. |
+| Marca de diseño botánico / Deco consciente | Tiene una estética limpia y armónica en su web que transmite calma desde el primer segundo, combinando la tienda con artículos sobre cómo llevar la naturaleza a los espacios interiores. |
