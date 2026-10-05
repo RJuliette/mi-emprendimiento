@@ -1,4 +1,4 @@
-# Arquitectura de la información — [Nombre del emprendimiento]
+# Arquitectura de la información — Ruliette
 
 > Guía: [Arquitectura de la información](../evaluacion/guias/fase-1-requerimientos/05-arquitectura.md)
 
@@ -10,9 +10,17 @@ contacto, preguntas frecuentes, términos, privacidad y 404. -->
 ```text
 Inicio (landing)
 ├── Tienda
+│   ├── Galería de Paisajes y Colecciones
+│   └── Detalle de Producto / Cuadro
 ├── Blog
-└── ...
-```
+│   ├── Galería de Artículos y Expediciones
+│   └── Detalle de Artículo
+├── Sobre mí
+├── Contacto
+├── Preguntas frecuentes
+├── Términos y condiciones
+├── Políticas de privacidad
+└── Página 404 (No encontrada)
 
 ## User flows
 
@@ -20,15 +28,11 @@ Inicio (landing)
 
 ### Flujo 1: compra
 
-```text
-
-```
+[Inicio] ──> [Tienda / Galería] ──> [Seleccionar Cuadro / Foto] ──> [Elegir Tamaño y Enmarcado] ──> [Agregar al Carrito] ──> [Página de Pago / Checkout] ──> [Confirmación de Compra]
 
 ### Flujo 2: contenido
 
-```text
-
-```
+[Inicio] ──> [Blog de Expediciones] ──> [Seleccionar Artículo de Naturaleza] ──> [Leer Historia y Ficha Técnica] ──> [Ver Cuadro Relacionado] ──> [Ir a la Tienda]
 
 ## Categorías
 
@@ -37,11 +41,20 @@ Inicio (landing)
 ### Categorías de productos
 
 | Categoría | Productos |
-|---|---|
-| | |
+|Paisajes Marinos y Costa|Impresiones de acantilados, oleaje de Valparaíso y atardeceres en el Pacífico.| 
+
+| Categoría | Productos |
+|Fauna Silvestre|Cuadros de aves locales, fauna marina y especies autóctonas en su hábitat.|
+
+| Categoría | Productos |
+|Bosque y Cordillera|Fotografía enmarcada de bosques nativos, senderos y cumbres cordilleranas.|
+
 
 ### Categorías del blog
 
 | Categoría | Idea de artículo | Necesidad o motivación de la proto-persona | Producto relacionado |
-|---|---|---|---|
-| | | | |
+|Guías de Decoración|Cómo elegir el tamaño y formato ideal de un cuadro para tu living|Necesita visualizar y coordinar cuadros en proyectos de diseño de interiores.|Cuadro "Atardecer en la Costa" (Gran formato)|
+
+| Categoría | Idea de artículo | Necesidad o motivación de la proto-persona | Producto relacionado |
+|Conservación y Naturaleza|La importancia de proteger la biodiversidad de los bosques nativos|Motivada por el impacto ecológico y el apoyo al patrimonio natural.|Print Serie Limitada "Bosque Nativo"|
+
