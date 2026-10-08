@@ -1,13 +1,13 @@
-# Moodboard — [Nombre del emprendimiento]
+# Moodboard — Ruliette
 
-> Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
+**Tablero:** https://whimsical.com/workspace-123/moodboard-ruliette-AeoqrjymDMthVnvf1VFU1A
 
-**Tablero en Whimsical:** [pega aquí el link]
-
-<!-- Captura: guárdala en docs/img/ y enlázala así: ![Moodboard](img/moodboard.png) -->
-
+![Moodboard de Ruliette](img/Moodboardruliette.png)
 ## Palabras clave
+
+Natural · Silvestre · Conexión · Tierra
 
 ## Qué sensación buscamos
 
-<!-- 3 a 5 líneas: qué sensación y por qué conecta con tu proto-persona. -->
+El objetivo es que cuando alguien entre al sitio sienta calma, elegancia y autenticidad, como si estuviera dando un respiro al aire libre en medio del ruido de la ciudad. 
+A su vez, se busca transmitir la tranquilidad de la naturaleza y los paisajes reales, los cuales se verán reflejados en la web y en sus futuros productos.
