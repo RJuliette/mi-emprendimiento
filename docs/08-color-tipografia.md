@@ -38,7 +38,7 @@
 
 ## Justificación
 
-La paleta de colores y la tipografía de Ruliette fueron seleccionadas para evocar una sensación de serenidad orgánica y conexión con la naturaleza chilena, conectando directamente con las expectativas de Camila (proto-persona).
+La paleta de colores y la tipografía de Ruliette fueron seleccionadas para generar una sensación de serenidad orgánica y conexión con la naturaleza chilena, conectando directamente con las expectativas de Camila (proto-persona).
 
 1. **Colores:** Se optó por un fondo cálico en tono **Crema Arena (`#F9F8F3`)** en lugar de un blanco puro para dar una apariencia editorial y descansar la vista. El **Verde Bosque Nativo (`#2C3E35`)** y el **Tierra Orgánica (`#8C6D53`)** refuerzan la identidad de fotografía de paisajes autóctonos y sustentabilidad, mientras que el **Mostaza Silvestre (`#D99B26`)** guía la mirada de Camila hacia las acciones principales (como agregar al carrito o explorar la tienda).
 2. **Tipografía:** La combinación tipográfica equilibra el arte y la funcionalidad. `Playfair Display` aporta un aire refinado de exposición de arte en los títulos principales, mientras que `Plus Jakarta Sans` en los cuerpos de texto permite leer cómodamente las historias de las expediciones y fichas técnicas desde dispositivos móviles y computadores de escritorio.
